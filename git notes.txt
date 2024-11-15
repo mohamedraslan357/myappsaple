@@ -1,3 +1,9 @@
+so these is the steps { create files => add it => make a commit => push it }
+
+
+
+
+
 to create a file => touch filename
 
 to initialize it => git init
@@ -23,3 +29,6 @@ to comment a file and ignore it use git commit -m "comment"
 [git merge login => i => Added filname
 
 to go to branch or master => git checkout brachName 
+
+to copy the whole project from internet " git clone "
+
