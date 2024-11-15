@@ -1,0 +1,25 @@
+to create a file => touch filename
+
+to initialize it => git init
+
+to set the username and emailName => git config --global {user.name or email}
+
+to add a file to repository => git add filename 
+
+to get status => git status 
+
+to remove file from repository => git rm --cached filename 
+
+to add all html file => git add *.html4
+
+to add all files => git add .
+
+[ git commit => i => esc => :wq]
+
+you can create a file ".gitignore" and add file that you want to be ignored 
+
+to comment a file and ignore it use git commit -m "comment"
+
+[git merge login => i => Added filname
+
+to go to branch or master => git checkout brachName 
